@@ -1,0 +1,23 @@
+
+
+
+.conteiner {
+    background-color: gray;
+}
+
+.conteiner0 {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+
+}
+
+
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+
+
